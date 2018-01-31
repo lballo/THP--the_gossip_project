@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Ce projet permet d'écrire des ragots de manière anonyme
