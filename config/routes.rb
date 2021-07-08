@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
 
-	root 'application#hello'
+  resources :gossips
+	root 'gossips#index'
 end
